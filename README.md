@@ -18,7 +18,7 @@ ML4K is available in several different languages supporting a wider application 
  Cognimates is an  AI education platform for programming and customizing the development of AI models embodied in devices, such as Amazon’s smart speaker Alexa, Cozmo, etc. It provides block-based deployement support to an AI model. It is appropriate to use by the students of age 7 to 12 years.
 # [RapidMiner](https://rapidminer.com)
  RapidMiner is acomprehensive data science platform with dataflow-based visual design and full automation of ML solutions. It is useful for professionals and middle school students. It provides a support for a variety of machine learing techniques ranges from data data preparation to model evaluation. The tool is avalable to download with its unpaid (or paid) versions and users can make use of the local machine for the training process. 
-# [Snap](https://snap.berkeley.edu)
+# [Snap!](https://snap.berkeley.edu)
 Snap is framework that provide a block-based AI tecahing and learning environment. It also provide a platform for serious study of computer science. 
 # [eCraft2Learn](https://ecraft2learn.github.io/ai)
  eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.
