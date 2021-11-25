@@ -1,7 +1,8 @@
-# Visual-Tools-for-Teaching-and-Learning-AI
+
+# <font color ='blue'> Visual-Tools-for-Teaching-and-Learning-AI </font>
 ![Visual Tools for AI and MAchine Learning](/images/VisualAITools.png)
 <b>
- <h1>Teachable Machine </h1>
+<h1 style="color:blue">Teachable Machine </h1>
   <p>Theachable Machine is a web browser based tool which provids specific ML blocks for data preparation, training, and evaluation. The tool also provides an easy access to initial datasets available via google drive.  </p>
  <h1>MIT AppInventor</h1> 
  <p>  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
@@ -42,9 +43,8 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 -<b>Data-Flow Based <img src="/images/data flow-based.png" width =30% height = 30%> <br>
 -Work-Flow based  <img src="/images/workflow-based.png" width =30% height = 30%><br>
 -Block-based  <img src="/images/block-based.gif" width =30% height = 30%><br> </b>
-<HTML>
-<HEAD>
-<TITLE>Your Title Here</TITLE>
+
+<!--<TITLE>Your Title Here</TITLE> -->
 </HEAD>
 <BODY BGCOLOR="FFFFFF">
 <!--<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER> -->
