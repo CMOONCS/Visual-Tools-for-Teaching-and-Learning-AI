@@ -39,12 +39,12 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
   
 
 
-## Visual tools for Machine Learning
+<!--## Visual tools for Machine Learning
 -<b>Data-Flow Based <img src="/images/data flow-based.png" width =30% height = 30%> <br>
 -Work-Flow based  <img src="/images/workflow-based.png" width =30% height = 30%><br>
--Block-based  <img src="/images/block-based.gif" width =30% height = 30%><br> </b>
+-Block-based  <img src="/images/block-based.gif" width =30% height = 30%><br> </b> -->
 
 
-<h1>References</h1>
- https://link.springer.com/article/10.1007/s10639-021-10570-8 <br>
- https://revistas.um.es/red/article/view/410121
+# References<
+ -https://link.springer.com/article/10.1007/s10639-021-10570-8 <br>
+ -https://revistas.um.es/red/article/view/410121
