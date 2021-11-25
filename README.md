@@ -28,8 +28,11 @@
 <h1>STEMpedia</h1>
  <p>STEMpedia provides a scratch graphical programming to use block-based learning features. Students can install the software to use this tool on their local machine. </p>
 <h1>Open Roberta Lab</h1>
+ <p> Open Rpberta (Roberta—Learning with robots) is a browser-based approach to learn programming and coding by using roberts. It is available in several different languages. It provides different programmig blocks to program motors and sensors of the robots.  </p>
 <h1>Lobe</h1>
+Lobe is workflow-based tool which can be downloaded and used as desktop application. It provides a complete solution to collect data, train, improve and export the model. The current version works for image classification. Users can export and save the model to further build an application.
 <h1>Scratch</h1>
+ <p>Scratch is a block-based programming tool with education features for creating art, simulations and more. It also provides extensions for devices including micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. </p>
   
   
   
