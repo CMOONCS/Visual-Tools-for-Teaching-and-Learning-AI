@@ -10,11 +10,13 @@
 <h1>LearningML (LML) </h1>
  <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser-based tool train AI model.</p>
 <h1>Machine Learning for Kids (ML4K) </h1>
- <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine learing environments using Python.</p>
+ <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine learning environments using Python.</p>
 <h1>LPC (Laboratory for Playful Computation)</h1>
  <p>LPC is a learning platform which provides a range of browser-based tools for various educational modules including block-based AI learning and computaional thinking tools. It also provides support to run the code on hardware such as Raspberry Pi, GrovePi, etc. Learners can combine the code blocks and MIT App Inventor to make mobile apps to communicate with IoT devices. </p>
-<h1>Cognimate</h1> 
-<h1>Rapidminer</h1>
+<h1>[Cognimate](http://cognimates.me/home)</h1> 
+ <p> Cognimates is an  AI education platform for programming and customizing the development of AI models embodied in devices, such as Amazon’s smart speaker Alexa, Cozmo, etc. It provides block-based deployement support to an AI model. It is appropriate to use by the students of age 7 to 12 years.</p>
+<h1>RapidMiner</h1>
+ <p>RapidMineris acomprehensive data science platform with dataflow-based visual design and full automation of ML solutions. It is useful for professionals and middle school students. It provides a support for a variety of machine learing techniques ranges from data data preparation to model evaluation. The tool is avalable to download with its unpaid (or paid) versions and users can make use of the local machine for the training process. </p>
 <h1>eCraft2Learn</h1>
 <h1>Milo Block</h1>
 <h1>PErsonal Image Classifier</h1>
