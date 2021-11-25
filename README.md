@@ -8,7 +8,7 @@
 <h1>Orange</h1>
  <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
 <h1>LearningML (LML) </h1>
- <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser-based tool train AI model.</p>
+ <p> LML is an education platform which provides workflow-based approach for learning AI and to develop computational thinking among students. Is is a web browser-based deployement tool for teaching machine learning.</p>
 <h1>Machine Learning for Kids (ML4K) </h1>
  <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine learning environments using Python.</p>
 <h1>LPC (Laboratory for Playful Computation)</h1>
@@ -20,7 +20,7 @@
 <h1>eCraft2Learn</h1>
  <p>eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.</p>
 <h1>Milo Block</h1>
- <p>Milo Block web-based visual programming environ- ment for Data Science Education</p>
+ <p>Milo Block is a web-based visual programming environment for Data Science Education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitabke for high-school to undergraduate students in non-computer science fields without programming experience.</p>
  
 <h1>PErsonal Image Classifier</h1>
 <h1>mBlock</h1>
