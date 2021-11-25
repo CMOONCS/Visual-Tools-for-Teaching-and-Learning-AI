@@ -20,13 +20,13 @@
 <h1>eCraft2Learn</h1>
  <p>eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.</p>
 <h1>Milo Block</h1>
- <p>Milo Block is a web-based visual programming environment for Data Science Education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitabke for high-school to undergraduate students in non-computer science fields without programming experience.</p>
- 
-<h1>PErsonal Image Classifier</h1>
+ <p>Milo Block is a web-based visual programming environment for machine learning and data science education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitabke for high-school to undergraduate students in non-computer science fields without programming experience.</p>
+<h1>Personal Image Classifier (PIC)</h1>
+ <p>PIC is an extension for MIT App Inventor that allows deploying the modles in apps. It provides users the tools to train, test, and analyze personalized image classification models.</p>
 <h1>mBlock</h1>
- .
- <p>It is available in several different languages</p>
+<p> mBlock is a block and code-based programming software and its Teachable Machine extension that allows to create an ML model. It is available in several different languages.</p>
 <h1>STEMpedia</h1>
+ <p>STEMpedia provides a scratch graphical programming to use block-based learning features. Students can install the software to use this tool on their local machine. </p>
 <h1>Open Roberta Lab</h1>
 <h1>Lobe</h1>
 <h1>Scratch</h1>
