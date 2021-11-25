@@ -18,8 +18,10 @@
 <h1>RapidMiner</h1>
  <p>RapidMineris acomprehensive data science platform with dataflow-based visual design and full automation of ML solutions. It is useful for professionals and middle school students. It provides a support for a variety of machine learing techniques ranges from data data preparation to model evaluation. The tool is avalable to download with its unpaid (or paid) versions and users can make use of the local machine for the training process. </p>
 <h1>eCraft2Learn</h1>
- <p>eCraft2Learn is a browser-based tools to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.</p>
+ <p>eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.</p>
 <h1>Milo Block</h1>
+ <p>Milo Block web-based visual programming environ- ment for Data Science Education</p>
+ 
 <h1>PErsonal Image Classifier</h1>
 <h1>mBlock</h1>
  .
