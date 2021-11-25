@@ -5,7 +5,8 @@
   <p>Theachable Machine is a web browser based tool which provids specific ML blocks for data preparation, training, and evaluation. The tool also provides an easy access to initial datasets available via google drive.  </p>
  <h1>MIT AppInventor</h1> 
  <p>  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
-- Orange <br>
+<h1>Orange</h1>
+ <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
 - LML <br>
 - Machine LEarning for kids <br>
 - LPC <br>
