@@ -8,9 +8,9 @@
 <h1>Orange</h1>
  <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
 <h1>LearningML (LML) </h1>
- <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser based tool train AI model. </p>
-<h1>Machine LEarning for kids </h1>
- <p> </p>
+ <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser based tool train AI model.</p>
+<h1>Machine Learning for kids (ML4K) </h1>
+ <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine leanring environments using Python</p>
 <h1>LPC </h1>
 <h1>Cognimate</h1>
 <h1>Rapidminer</h1>
@@ -18,6 +18,8 @@
 <h1>Milo Block</h1>
 <h1>PErsonal Image Classifier</h1>
 <h1>mBlock</h1>
+ .
+ <p>It is available in several different languages</p>
 <h1>STEMpedia</h1>
 <h1>Open Roberta Lab</h1>
 <h1>Lobe</h1>
