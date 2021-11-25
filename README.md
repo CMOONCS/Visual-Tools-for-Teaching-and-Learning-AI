@@ -8,11 +8,11 @@
 <h1>Orange</h1>
  <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
 <h1>LearningML (LML) </h1>
- <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser based tool train AI model.</p>
-<h1>Machine Learning for kids (ML4K) </h1>
+ <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser-based tool train AI model.</p>
+<h1>Machine Learning for Kids (ML4K) </h1>
  <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine learing environments using Python.</p>
-<h1>LPC </h1>
- <p> </p>
+<h1>LPC (Laboratory for Playful Computation)</h1>
+ <p>LPC is a learning platform which provides a range of browser-based tools for various lerning modules including block-based AI learning and computaional thinking tools. It also provides support to run the code on hardware such as Raspberry Pi, GrovePi, etc. Learners can combine the code blocks and MIT App Inventor to make mobile apps to communicate with IoT devices. </p>
 <h1>Cognimate</h1> 
 <h1>Rapidminer</h1>
 <h1>eCraft2Learn</h1>
