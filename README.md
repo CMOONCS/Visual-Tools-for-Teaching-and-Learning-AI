@@ -45,6 +45,6 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 -Block-based  <img src="/images/block-based.gif" width =30% height = 30%><br> </b> -->
 
 
-# References<
- -https://link.springer.com/article/10.1007/s10639-021-10570-8 <br>
- -https://revistas.um.es/red/article/view/410121
+# References
+ . https://link.springer.com/article/10.1007/s10639-021-10570-8 <br>
+ . https://revistas.um.es/red/article/view/410121
