@@ -7,9 +7,10 @@
  <p>  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
 <h1>Orange</h1>
  <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
-<h1>LML </h1>
- <p> LML is a education platform to provide block-based learning contents on AI and compytational thinking. </p>
+<h1>LearningML (LML) </h1>
+ <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser based tool train AI model. </p>
 <h1>Machine LEarning for kids </h1>
+ <p> </p>
 <h1>LPC </h1>
 <h1>Cognimate</h1>
 <h1>Rapidminer</h1>
@@ -49,3 +50,5 @@ support@yourcompany.com</a>.
 <HR>
 </BODY>
 </HTML>
+<h1>References</h1>
+ [https://revistas.um.es/red/article/view/410121]
