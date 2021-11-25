@@ -10,9 +10,10 @@
 <h1>LearningML (LML) </h1>
  <p> LML is an education platform which provides workflow-based approach for learning AI and to develop compytational thinking among students. Is is a web browser based tool train AI model.</p>
 <h1>Machine Learning for kids (ML4K) </h1>
- <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine leanring environments using Python</p>
+ <p>ML4K is available in several different languages supporting a wider application to help different education stages. It provides a hybrid approach, offerring a textual programming alternative for more advanced users to make a transition towards text-based machine learing environments using Python.</p>
 <h1>LPC </h1>
-<h1>Cognimate</h1>
+ <p> </p>
+<h1>Cognimate</h1> 
 <h1>Rapidminer</h1>
 <h1>eCraft2Learn</h1>
 <h1>Milo Block</h1>
