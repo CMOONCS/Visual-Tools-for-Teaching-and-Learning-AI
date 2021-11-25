@@ -7,19 +7,20 @@
  <p>  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
 <h1>Orange</h1>
  <p>Orange tool is a component based tool which is  used in advanced context of AI learning. It provides supports for the development of custom machine learning models and creates complete solutions. The data flow between components provides detailed and complex functionality for a machine leaning cycle. It also provides the utility to build the neural network architecture. </p>
-- LML <br>
-- Machine LEarning for kids <br>
-- LPC <br>
-- Cognimate <br>
-- Rapidminer <br>
-- eCraft2Learn <br>
-- Milo Block <br>
-- PErsonal Image Classifier <br>
-- mBlock <br>
-- STEMpedia <br>
-- Open Roberta Lab <br>
-- Lobe <br>
-- Scratch <br>
+<h1>LML </h1>
+ <p> LML is a education platform to provide block-based learning contents on AI and compytational thinking. </p>
+<h1>Machine LEarning for kids </h1>
+<h1>LPC </h1>
+<h1>Cognimate</h1>
+<h1>Rapidminer</h1>
+<h1>eCraft2Learn</h1>
+<h1>Milo Block</h1>
+<h1>PErsonal Image Classifier</h1>
+<h1>mBlock</h1>
+<h1>STEMpedia</h1>
+<h1>Open Roberta Lab</h1>
+<h1>Lobe</h1>
+<h1>Scratch</h1>
   
   
   
