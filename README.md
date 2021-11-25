@@ -46,6 +46,6 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 
 
 # References
- . [von Wangenheim, C. G., Hauck, J. C., Pacheco, F. S., & Bueno, M. F. B. (2021). Visual tools for teaching machine learning in K-12: A ten-year systematic mapping. Education and Information Technologies, 1-46.](https://link.springer.com/article/10.1007/s10639-021-10570-8)<br>
- . [García, J. D. R., Moreno-León, J., Román-González, M., & Robles, G. (2020). Learningml: A tool to foster computational thinking skills through practical artificial intelligence projects. Revista de Educación a Distancia (RED), 20(63).](https://revistas.um.es/red/article/view/410121)<br>
- . [Marques, L. S., Gresse von Wangenheim, C., & Hauck, J. C. R. (2020). Teaching Machine Learning in School: A Systematic Mapping of the State of the Art. Informatics in Education, 19(2), 283–321.](https://doi.org/10.15388/infedu.2020.14)<br> 
+ - [von Wangenheim, C. G., Hauck, J. C., Pacheco, F. S., & Bueno, M. F. B. (2021). Visual tools for teaching machine learning in K-12: A ten-year systematic mapping. Education and Information Technologies, 1-46.](https://link.springer.com/article/10.1007/s10639-021-10570-8)<br>
+ - [García, J. D. R., Moreno-León, J., Román-González, M., & Robles, G. (2020). Learningml: A tool to foster computational thinking skills through practical artificial intelligence projects. Revista de Educación a Distancia (RED), 20(63).](https://revistas.um.es/red/article/view/410121)<br>
+ - [Marques, L. S., Gresse von Wangenheim, C., & Hauck, J. C. R. (2020). Teaching Machine Learning in School: A Systematic Mapping of the State of the Art. Informatics in Education, 19(2), 283–321.](https://doi.org/10.15388/infedu.2020.14)<br> 
