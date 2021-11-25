@@ -1,7 +1,9 @@
 # Visual-Tools-for-Teaching-and-Learning-AI
-![Visual Tools for AI and MAchine Learning](/images/VisualTools.png)
+![Visual Tools for AI and MAchine Learning](/images/VisualAITools.png)
 - <b> Teachable Machine <br>
-- MIT AppInventor <br>
+  <p>Theachable Machine is a web browser based tool which provids specific ML blocks for data preparation, training, and evaluation. The tool also provides an easy access to initial datasets available via google drive.  </p>
+- <h1>MIT AppInventor</h1> <br>
+ <p>  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
 - Orange <br>
 - LML <br>
 - Machine LEarning for kids <br>
