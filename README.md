@@ -51,4 +51,4 @@ support@yourcompany.com</a>.
 </BODY>
 </HTML>
 <h1>References</h1>
- [https://revistas.um.es/red/article/view/410121]
+ https://revistas.um.es/red/article/view/410121
