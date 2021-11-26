@@ -27,7 +27,7 @@ Snap is framework that provides a block-based AI tecahing and learning environme
 # [Personal Image Classifier (PIC)](https://classifier.appinventor.mit.edu)
  PIC is an extension for MIT App Inventor that allows deploying the modles in apps. It offers users the tools to train, test, and analyze personalized image classification models.
 # [STEMpedia](https://thestempedia.com/about-us/)
- STEMpedia provides a scratch graphical programming to use block-based learning features. Students can install the software to use this tool on their local machine. 
+ STEMpedia offers an online AI curriculum and provides a scratch graphical programming tool to use block-based learning features. Students can install the software to use this tool on their local machine. 
 # [Open Roberta Lab](https://lab.open-roberta.org)
  Open Rpberta (Roberta—Learning with robots) is a browser-based approach to learn programming and coding by using roberts. It is available in several different languages and also provides different programmig blocks to program motors and sensors of the robots.  
 # [Lobe](https://www.lobe.ai)
