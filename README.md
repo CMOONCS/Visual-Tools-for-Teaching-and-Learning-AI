@@ -22,7 +22,7 @@ ML4K is available in several different languages supporting a wider application 
 Snap is framework that provides a block-based AI tecahing and learning environment. It also serves as a platform for serious study of computer science. 
 # [eCraft2Learn](https://ecraft2learn.github.io/ai)
  eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.
-# [Milo Block](https://mblock.makeblock.com/en-us/)
+# [M Block](https://mblock.makeblock.com/en-us/)
  Milo Block is a web-based visual programming environment for machine learning and data science education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitabke for high-school to undergraduate students in non-computer science fields without programming experience.
 # [Personal Image Classifier (PIC)](https://classifier.appinventor.mit.edu)
  PIC is an extension for MIT App Inventor that allows deploying the modles in apps. It provides users the tools to train, test, and analyze personalized image classification models.
