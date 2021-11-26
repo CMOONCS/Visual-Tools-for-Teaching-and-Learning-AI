@@ -33,7 +33,7 @@ Snap is framework that provides a block-based AI tecahing and learning environme
 # [Lobe](https://www.lobe.ai)
 Lobe is workflow-based tool which can be downloaded and used as desktop application. It allows a complete solution to collect data, train, improve and export the model. The current version works for image classification. Users can export and save the model to further build an application.
 # [Scratch](https://scratch.techpark.jp)
- Scratch is a block-based programming tool with education features for creating art, simulations and more. It also offers extensions for devices including Micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. 
+ Scratch is a block-based programming tool with education features for creating art, simulations and more. It also offers extensions for devices including micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. 
   
   
   
