@@ -23,17 +23,17 @@ Snap is framework that provides a block-based AI tecahing and learning environme
 # [eCraft2Learn](https://ecraft2learn.github.io/ai)
  eCraft2Learn is a browser-based tool to provide block-based support for leaning. It delivers a programming environment specific ML blocks for data preparation, training, and evaluation.
 # [M Block](https://mblock.makeblock.com/en-us/)
- Milo Block is a web-based visual programming environment for machine learning and data science education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitabke for high-school to undergraduate students in non-computer science fields without programming experience.
+ Milo Block is a web-based visual programming environment for machine learning and data science education. It has features to provide advanced mode of using machine learning training parameters, such as epochs, learning rate etc. It is suitable for high-school to undergraduate students in non-computer science fields without programming experience.
 # [Personal Image Classifier (PIC)](https://classifier.appinventor.mit.edu)
- PIC is an extension for MIT App Inventor that allows deploying the modles in apps. It provides users the tools to train, test, and analyze personalized image classification models.
+ PIC is an extension for MIT App Inventor that allows deploying the modles in apps. It offers users the tools to train, test, and analyze personalized image classification models.
 # [STEMpedia](https://thestempedia.com/about-us/)
  STEMpedia provides a scratch graphical programming to use block-based learning features. Students can install the software to use this tool on their local machine. 
 # [Open Roberta Lab](https://lab.open-roberta.org)
- Open Rpberta (Roberta—Learning with robots) is a browser-based approach to learn programming and coding by using roberts. It is available in several different languages. It provides different programmig blocks to program motors and sensors of the robots.  
+ Open Rpberta (Roberta—Learning with robots) is a browser-based approach to learn programming and coding by using roberts. It is available in several different languages and also provides different programmig blocks to program motors and sensors of the robots.  
 # [Lobe](https://www.lobe.ai)
-Lobe is workflow-based tool which can be downloaded and used as desktop application. It provides a complete solution to collect data, train, improve and export the model. The current version works for image classification. Users can export and save the model to further build an application.
+Lobe is workflow-based tool which can be downloaded and used as desktop application. It allows a complete solution to collect data, train, improve and export the model. The current version works for image classification. Users can export and save the model to further build an application.
 # [Scratch](https://scratch.techpark.jp)
- Scratch is a block-based programming tool with education features for creating art, simulations and more. It also provides extensions for devices including micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. 
+ Scratch is a block-based programming tool with education features for creating art, simulations and more. It also offers extensions for devices including Micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. 
   
   
   
