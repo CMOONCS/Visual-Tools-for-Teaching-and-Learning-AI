@@ -35,7 +35,7 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 ## [Scratch](https://scratch.techpark.jp)
  Scratch is a block-based programming tool with education features for creating art, simulations and more. It also offers extensions for devices including micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. <br><br>
   
- # Tools to see glass-box view of some Machine Leraning (ML) model <br>
+ # Tools to see glass-box view of some Machine Leraning (ML) models <br>
  
  ![Tools to see glass-box view of some AI models](/images/GlassboxViews.png) 
 
