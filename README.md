@@ -41,8 +41,10 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 
 ## [How ML Models "See"?](https://www.cs.cmu.edu/~dst/FaceDemo/)
 TinyYoloV2 Face Detection	demo by Jigar Makwana, Max Wolff, and David S. Touretzky. Based on the face-api.js demo by Vincent Mühler at [GitHub](https://github.com/justadudewhohacks/face-api.js/) <br>
-##[How ML Models "Hear"?](https://creatability.withgoogle.com/seeing-music/)
+## [How ML Models "Hear"?](https://creatability.withgoogle.com/seeing-music/)
 This is a tool for visualizing a live speech or monophonic music such as a human voice. It's a tool from  "Experiments with Google".
+## [Speech Recognition Demo](https://www.cs.cmu.edu/~dst/SpeechDemo/)
+This demo uses the Google Speech API to record audio from the computer's microphone and return strings indicating the best hypotheses for what the speaker said. Based on demo by Dave Touretzky at [Github](https://github.com/touretzkyds/ai4k12/wiki/Demo:-Speech-Recognition-in-Chrome)
 <!--## Visual tools for Machine Learning
 -<b>Data-Flow Based <img src="/images/data flow-based.png" width =30% height = 30%> <br>
 -Work-Flow based  <img src="/images/workflow-based.png" width =30% height = 30%><br>
