@@ -39,8 +39,8 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
  
  ![Tools to see glass-box view of some AI models](/images/GlassboxViews.png) 
 
-## [Face Detection](https://www.cs.cmu.edu/~dst/FaceDemo/)
-TinyYoloV2 Face Detection	demo by Jigar Makwana, Max Wolff, and David S. Touretzky. Based on the face-api.js demo by Vincent Mühler <br>
+## [How ML Models "See"?](https://www.cs.cmu.edu/~dst/FaceDemo/)
+TinyYoloV2 Face Detection	demo by Jigar Makwana, Max Wolff, and David S. Touretzky. Based on the face-api.js demo by Vincent Mühler at [GitHub](https://github.com/justadudewhohacks/face-api.js/) <br>
 <!--## Visual tools for Machine Learning
 -<b>Data-Flow Based <img src="/images/data flow-based.png" width =30% height = 30%> <br>
 -Work-Flow based  <img src="/images/workflow-based.png" width =30% height = 30%><br>
