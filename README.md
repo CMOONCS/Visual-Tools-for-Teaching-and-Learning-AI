@@ -49,7 +49,7 @@ This demo uses the Google Speech API to record audio from the computer's microph
 ## Other tools
 - ### [Word2Vec Demo](https://remykarem.github.io/word2vec-demo/)
 - ### [Word Embedding Projector](https://projector.tensorflow.org/)
-- ### [Word Analogy in the Semantic Space](bionlp-www.utu.fi/wv_demo/)
+- ### [Word Analogy in the Semantic Space](http://bionlp-www.utu.fi/wv_demo/)
 <!--## Visual tools for Machine Learning
 -<b>Data-Flow Based <img src="/images/data flow-based.png" width =30% height = 30%> <br>
 -Work-Flow based  <img src="/images/workflow-based.png" width =30% height = 30%><br>
