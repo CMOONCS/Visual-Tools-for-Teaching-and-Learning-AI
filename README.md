@@ -64,3 +64,10 @@ This demo uses the Google Speech API to record audio from the computer's microph
  - [Xie, C., Qi, H., Ma, L., Zhao, J. (2019). DeepVisual: A Visual Programming Tool for Deep Learning Systems. In Proceedings of the 27th International Conference on Program Comprehension (ICPC), Montreal, QC, Canada, pp. 130–134](https://doi.org/10.1109/ICPC.2019.00028),
  - [Touretzky, D. S., & Gardner-McCune, C. (2021). Artificial Intelligence Thinking in K-12.](https://ai4k12.org/wp-content/uploads/2021/08/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
  
+## Terms of use
+- The above content can be used freely for research purposes.
+- If you use the inforformations, then please cite the reference to this resource.
+- Please feel free to send us an email:
+  - with feedback regarding the sources.
+  - with information on how you have used them.
+  - if interested in a collaborative research project.
