@@ -1,5 +1,6 @@
 
 # <font color ='blue'> Visual-Tools-for-Teaching-and-Learning-AI </font>
+# 1. Tools for acquiring AI skills
 ![Visual Tools for AI and MAchine Learning](/images/VisualAITools.png)
 
 ## [Teachable Machine](https://teachablemachine.withgoogle.com)<br>
@@ -35,7 +36,7 @@ Lobe is workflow-based tool which can be downloaded and used as desktop applicat
 ## [Scratch](https://scratch.techpark.jp)
  Scratch is a block-based programming tool with education features for creating art, simulations and more. It also offers extensions for devices including micro:bit. It features blocks for using machine learning models for translation, text-to-speech and more. <br><br>
   
- # Tools to see glass-box view of some Machine Leraning (ML) models <br>
+ # 2. Tools to see glass-box view of some Machine Leraning (ML) models <br>
  
  ![Tools to see glass-box view of some AI models](/images/GlassBox.png) 
 
@@ -45,6 +46,9 @@ TinyYoloV2 Face Detection	demo by Jigar Makwana, Max Wolff, and David S. Touretz
 This is a tool for visualizing a live speech or monophonic music such as a human voice. It's a tool from  "Experiments with Google".
 ## [How ML Models "Recognize Speech"?](https://www.cs.cmu.edu/~dst/SpeechDemo/)
 This demo uses the Google Speech API to record audio from the computer's microphone and return strings indicating the best hypotheses for what the speaker said. Based on demo by Dave Touretzky at [Github](https://github.com/touretzkyds/ai4k12/wiki/Demo:-Speech-Recognition-in-Chrome)
+
+# 3. Tools for acquiring AI knowlegde <br>
+Educational resources focusing on AI, such as training tools, interactive demos, and dedicated curriculum, are gaining popularity among both educators and learners. Based on the Technological Pedagogical Content Knowledge (TPACK) framework, researchers have developed a set of questions and criteria to assess the level of support provided by existing AI learning resources to meet educators' needs. Based of the research work by Druga et al.[paper](https://dl.acm.org/doi/pdf/10.1145/3502718.3524782) ; A collection of 50 providea a set of AI education resources, including interactive activities, tools, and curricula are presented with comprehensive analysis, also made accessible via the given [link](tinyurl.com/aiedk12)
 
 ## Other tools
 - ### [Word2Vec Demo](https://remykarem.github.io/word2vec-demo/)
