@@ -69,7 +69,7 @@ Educational resources focusing on AI, such as training tools, interactive demos,
  - [Gresse von Wangenheim, C., et al. (2018). CodeMaster – Automatic Assessment and Grading of App Inventor and Snap! Programs. Informatics in Education, 17(1), 117–150.](https://files.eric.ed.gov/fulltext/EJ1177148.pdf) <br>
  - [Xie, C., Qi, H., Ma, L., Zhao, J. (2019). DeepVisual: A Visual Programming Tool for Deep Learning Systems. In Proceedings of the 27th International Conference on Program Comprehension (ICPC), Montreal, QC, Canada, pp. 130–134](https://doi.org/10.1109/ICPC.2019.00028),
  - [Touretzky, D. S., & Gardner-McCune, C. (2021). Artificial Intelligence Thinking in K-12.](https://ai4k12.org/wp-content/uploads/2021/08/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
- 
+ - [Druga, S., Otero, N., & Ko, A. J. (2022, July). The landscape of teaching resources for ai education. In Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 1 (pp. 96-102)](https://dl.acm.org/doi/pdf/10.1145/3502718.3524782) 
 ## Terms of use
 - The above content can be used freely for research purposes.
 - If you use the inforformations, then please cite the reference to this resource.
