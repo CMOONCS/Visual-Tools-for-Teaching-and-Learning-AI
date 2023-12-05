@@ -72,7 +72,7 @@ Educational resources focusing on AI, such as training tools, interactive demos,
  - [Druga, S., Otero, N., & Ko, A. J. (2022, July). The landscape of teaching resources for ai education. In Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 1 (pp. 96-102)](https://dl.acm.org/doi/pdf/10.1145/3502718.3524782) 
 ## Terms of use
 - The above content can be used freely for research purposes.
-- If you use the inforformations, then please cite the reference to this resource.
+- If you use the inforformation, then please cite the reference to this resource.
 - Please feel free to send us an email:
   - with feedback regarding the sources.
   - with information on how you have used them.
