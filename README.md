@@ -50,7 +50,7 @@ This demo uses the Google Speech API to record audio from the computer's microph
 # 3. Tools for acquiring AI knowlegde <br>
 Educational resources focusing on AI, such as training tools, interactive demos, and dedicated curriculum, are gaining popularity among both educators and learners. Based on the Technological Pedagogical Content Knowledge (TPACK) framework, researchers have developed a set of questions and criteria to assess the level of support provided by existing AI learning resources to meet educators' needs. Based of the research work by Druga et al.[paper](https://dl.acm.org/doi/pdf/10.1145/3502718.3524782) ; A collection of 50 providea a set of AI education resources, including interactive activities, tools, and curricula are presented with comprehensive analysis, also made accessible via the given [link](tinyurl.com/aiedk12)
 
-![AI knowledge: learning resource] (/image/AI_literacy.png)
+![AI knowledge: learning resource](/images/AI_literacy.png)
 ## Other tools
 - ### [Word2Vec Demo](https://remykarem.github.io/word2vec-demo/)
 - ### [Word Embedding Projector](https://projector.tensorflow.org/)
