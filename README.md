@@ -73,7 +73,7 @@ Educational resources focusing on AI, such as training tools, interactive demos,
 ## Terms of use
 - The above content can be used freely for research purposes.
 - If you use the inforformation, then please cite the reference to this resource.
-- Please feel free to send us an email:
+- Please feel free to send us an email: chandnisaxenaATcuhk.edu.hk
   - with feedback regarding the sources.
   - with information on how you have used them.
   - if interested in a collaborative research project.
