@@ -4,7 +4,7 @@
 ![Visual Tools for AI and MAchine Learning](/images/VisualAITools.png)
 
 ## [Teachable Machine](https://teachablemachine.withgoogle.com)<br>
- Theachable Machine is a web browser based tool which provides specific ML blocks for data preparation, training, and evaluation. The tool also provides an easy access to initial datasets available via Google Drive.<br>
+ Teachable Machine is a web browser based tool which provides specific ML blocks for data preparation, training, and evaluation. The tool also provides an easy access to initial datasets available via Google Drive.<br>
  ## [MIT App Inventor](https://appinventor.mit.edu/explore/resources/ai/image-classification-look-extension)<br>
  App Inventor is widely used for teaching algorithms and programming concepts. It supports both the development of ML models and their deployment as part of software artifacts, such as games or mobile applications. The deployment is integrated into block-based programming environments.</p> 
 ## [Orange](https://orange.biolab.si)
